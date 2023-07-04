@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>webURL</key>
+	<string>https://deluxe-wisp-466ed5.netlify.app/</string>
+	<key>createEntityURL</key>
+	<string>https://api.latest.frankiefinancial.io/compliance/v1.2/entity</string>
+	<key>frankiCustomerID</key>
+	<string>0263a6bd-8cdf-b74a-bab5-702387342b49</string>
+	<key>apiKey</key>
+	<string>697498c1469fdcf3dbcc7a7ab21c013bd91671fa239c56fddc1ddafd057484d6</string>
+	<key>customerChildID</key>
+	<string>4cc85948-a696-61bd-6b99-1db83e3a5b99</string>
+	<key>userAgent</key>
+	<string>Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36</string>
+</dict>
+</plist>
